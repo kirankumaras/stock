@@ -1,0 +1,2 @@
+# stock
+projects and others
