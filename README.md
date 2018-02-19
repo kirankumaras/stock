@@ -1,2 +1,3 @@
-# stock
-projects and others
+#path control
+using navie method
+
